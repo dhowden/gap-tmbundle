@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array>
+			<string>59BB430C-BB42-4C8B-B256-4508FA00F6CD</string>
+			<string>------------------------------------</string>
+			<string>8FE32F61-2A4D-418B-AD8B-E60FE12FA208</string>
+			<string>D3CC3D27-A169-40B7-B6DA-6A2C9C2490E7</string>
+			<string>909C70A6-BFDA-4FB3-A76E-CCC076E80F6F</string>
+			<string>7C6FCCC4-5C6F-4F98-B6FD-147E52D1B2C5</string>
+			<string>------------------------------------</string>
+			<string>49301316-D2D0-4861-8322-1CB7EAF28658</string>
+		</array>
+		<key>submenus</key>
+		<dict/>
+	</dict>
+	<key>name</key>
+	<string>GAP</string>
+	<key>ordering</key>
+	<array>
+		<string>5CFA459A-1B65-493F-A806-0DF8DE8AECE2</string>
+		<string>1C47A23A-7EB3-42FD-8FBD-B5DFCC835734</string>
+		<string>B01CCD50-CB0E-49E7-9B8A-8F9BD0CB8169</string>
+		<string>4DCEDAC4-A109-46B6-957F-33E2B3670011</string>
+		<string>B9AFA611-DC9F-40AE-B509-143DAD5A20EF</string>
+		<string>59BB430C-BB42-4C8B-B256-4508FA00F6CD</string>
+		<string>8FE32F61-2A4D-418B-AD8B-E60FE12FA208</string>
+		<string>D3CC3D27-A169-40B7-B6DA-6A2C9C2490E7</string>
+		<string>909C70A6-BFDA-4FB3-A76E-CCC076E80F6F</string>
+		<string>7C6FCCC4-5C6F-4F98-B6FD-147E52D1B2C5</string>
+		<string>49301316-D2D0-4861-8322-1CB7EAF28658</string>
+	</array>
+	<key>uuid</key>
+	<string>957AE85D-63F2-4C36-8F76-49803BF11ED2</string>
+</dict>
+</plist>

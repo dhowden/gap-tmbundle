@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:function_name} := function(${2:params})
+	${3:# TODO: implement $1}
+end;</string>
+	<key>name</key>
+	<string>Create Function</string>
+	<key>scope</key>
+	<string>source.gap</string>
+	<key>tabTrigger</key>
+	<string>fun</string>
+	<key>uuid</key>
+	<string>59BB430C-BB42-4C8B-B256-4508FA00F6CD</string>
+</dict>
+</plist>

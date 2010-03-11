@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>for $1 do
+	${2:# TODO: implement }
+od;</string>
+	<key>name</key>
+	<string>For Statement</string>
+	<key>scope</key>
+	<string>source.gap</string>
+	<key>tabTrigger</key>
+	<string>for</string>
+	<key>uuid</key>
+	<string>D3CC3D27-A169-40B7-B6DA-6A2C9C2490E7</string>
+</dict>
+</plist>
